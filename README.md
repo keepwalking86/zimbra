@@ -1,6 +1,6 @@
 # Zimbra Collaboration Open Source
 
-- [Install Zimbra](scripts/install-zimbra-8-on-centos7.sh)
+- [Install Zimbra](scripts/install-zimbra-on-centos7.sh)
 
 - [Setup Zimbra](..)
 
