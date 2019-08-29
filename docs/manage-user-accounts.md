@@ -83,3 +83,5 @@ Chúng ta sử dụng lệnh zmmailbox để thực hiện các tùy chọn cho 
 - Restore user account
 
 `zmmailbox -z -m user postRestURL "//?fmt=tar" /backup/user.tar.gz`
+
+[https://www.zimbra.com/docs/ne/4.0.5/administration_guide/Managing_Accounts.9.1.html](https://www.zimbra.com/docs/ne/4.0.5/administration_guide/Managing_Accounts.9.1.html)
